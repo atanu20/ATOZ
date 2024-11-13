@@ -436,7 +436,7 @@
         background-color: #000;
         color: #fff;
         padding: 4rem 1rem;
-        min-height: 100vh;
+        /* min-height: 100vh; */
     }
  
     .container_atoz {
@@ -675,9 +675,9 @@
     .section_afaq {
         background-color: #000;
         color: #fff;
-        padding: 2rem 1rem;
-        min-height: 100vh;
-        padding:0px 0px 50px 0px;
+        /* padding: 2rem 1rem; */
+        /* min-height: 100vh; */
+        padding:30px 0px 50px 0px;
     }
  
     .container_afaq {
